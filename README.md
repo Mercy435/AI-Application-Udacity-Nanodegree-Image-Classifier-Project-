@@ -22,8 +22,6 @@ The `utilities.py` contains functions for loading and preprocessing data
 ### Running the AI application on jupyter notebook:
 
 1. import all the required modules for the project on the first cell
-   
-   !(./IMAGES/img.png)
 
 2. define the file paths of the images by assigning them to variables
    
